@@ -1,0 +1,45 @@
+Written #1
+1A
+print_formatted("hi")
+
+
+1B
+get_max([2,3])
+result = get_max([2,3])
+
+
+
+1C     
+log_base_two(20)
+Log = log_base_two(20)
+
+
+
+
+Written #2
+Because the code will return at line2 and anything after “ return “ will not be executed. When we start the function, it will execute line 1, line 2, then line 6, but skip the line 3. If we want to execute line 3, we have to put it before line 2. 
+
+
+Written #3
+3A
+19
+19
+
+3B
+19
+18
+19
+18
+19
+
+Written #4
+Function 1. After printing a value, we can no longer use it. But when a function returns a value, we can store It to a variable and do whatever with it.
+
+Written #5
+5A
+def divide( x: "int", y: "int") -> "int":
+
+
+5B
+Type annotation allows developer communicate expected argument types and return values with the interpreter effectively. Can decrease the amount of work and also keep dynamic typing’s advantage.
+

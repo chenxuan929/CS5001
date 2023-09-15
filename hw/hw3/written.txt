@@ -1,0 +1,24 @@
+Written #1
+1A
+Loop is not infinite
+No error
+
+Danger, Will Robinson!
+Danger, Will Robinson!
+Danger, Will Robinson!
+
+1B
+Loop is not infinite
+Did not print any "Dr.smith", only print one "Lost in Space!"
+
+
+1C
+Infinite loop
+Logic error
+Keep print: Jupiter-2 Jupiter-2 Jupiter-2 Jupiter-2 Jupiter-2 Jupiter-2 Jupiter-2 Jupiter-2 .....
+
+Written #2
+2A
+Option 1
+2B
+2
